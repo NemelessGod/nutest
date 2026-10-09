@@ -1,0 +1,14 @@
+services:
+  game:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      BOT_COUNT: "40"
+      ROOM_CAPACITY: "24"
+      DATA_DIR: /app/data
+    volumes:
+      - neon-data:/app/data
+volumes:
+  neon-data:
