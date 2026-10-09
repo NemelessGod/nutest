@@ -4,7 +4,7 @@ test("lobby, all panels, persisted settings and authoritative flight", async ({
 }, info) => {
   const errors = [];
   page.on("pageerror", (e) => errors.push(e.message));
-  await page.goto("/");
+  await page.goto("/serpents.html");
   await expect(page.locator("#nickname")).toHaveValue("Пилот");
   await page.locator("#nickname").fill("QA Pilot");
   await page.locator('[data-class="phantom"]').click();
@@ -84,7 +84,7 @@ test("lobby, all panels, persisted settings and authoritative flight", async ({
 test("account registration, returning login and layout at both orientations", async ({
   page,
 }, info) => {
-  await page.goto("/");
+  await page.goto("/serpents.html");
   await expect(page.locator("#nickname")).toHaveValue("Пилот");
   await page.locator('[data-panel="account"]').click();
   const username = "qa_" + Date.now();
@@ -129,7 +129,10 @@ test("two independent browsers join the same server arena", async ({
   try {
     const p1 = await c1.newPage(),
       p2 = await c2.newPage();
-    await Promise.all([p1.goto(baseURL), p2.goto(baseURL)]);
+    await Promise.all([
+      p1.goto(baseURL + "/serpents.html"),
+      p2.goto(baseURL + "/serpents.html"),
+    ]);
     await expect(p1.locator("#nickname")).toHaveValue("Пилот");
     await expect(p2.locator("#nickname")).toHaveValue("Пилот");
     await p1.locator("#play").click();

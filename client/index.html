@@ -6,171 +6,30 @@
       name="viewport"
       content="width=device-width, initial-scale=1, viewport-fit=cover"
     />
-    <meta name="theme-color" content="#080d17" />
+    <meta name="theme-color" content="#100e19" />
     <meta
       name="description"
-      content="NEON SERPENTS — многопользовательская неоновая арена. Собирай энергию, охоться и выживай."
+      content="Joker’s Abyss — мистический покерный roguelike. Джокеры, комбинации и риск между измерениями."
     />
-    <title>NEON SERPENTS • Арена энергии</title>
+    <title>JOKER'S ABYSS • Ultimate Evolution</title>
   </head>
   <body>
-    <canvas id="arena" aria-label="Игровая арена"></canvas>
-    <div class="vignette"></div>
-    <div id="lobby">
-      <header class="topbar">
-        <a class="brand" href="#" aria-label="Главная"
-          ><span class="brand-icon">ϟ</span
-          ><span
-            >NEON<span class="muted"> / </span>SERPENTS<small
-              >ENERGY IS EVERYTHING</small
-            ></span
-          ></a
-        >
-        <div class="top-status">
-          <span class="status-dot"></span>
-          <span id="network-status">ПОДКЛЮЧЕНИЕ</span>
-          <span class="separator">/</span> <span id="pilot-level">LVL 01</span>
-        </div>
-        <button class="icon-button" id="settings-open" aria-label="Настройки">
-          ⚙
-        </button>
-      </header>
-      <main class="lobby-content">
-        <div class="hero-copy">
-          <div class="eyebrow">
-            <span class="tiny-line"></span> MULTIPLAYER SURVIVAL ARENA
-          </div>
-          <h1>Стань светом.<br /><span>Поглоти остальных.</span></h1>
-          <p>
-            Одна арена. Тысячи искр. Ни одного второго шанса.<br />Собирай
-            энергию, обмани соперников и возглавь стаю.
-          </p>
-          <div class="hero-tags">
-            <span>01 <b>СОБИРАЙ</b></span
-            ><span>02 <b>ОХОТЬСЯ</b></span
-            ><span>03 <b>ВЫЖИВАЙ</b></span>
-          </div>
-        </div>
-        <section class="launch-card">
-          <div class="card-heading">
-            <span>ПОДГОТОВКА К ВЫЛЕТУ</span
-            ><span class="micro">SYS / READY</span>
-          </div>
-          <label class="field-label" for="nickname">ПОЗЫВНОЙ</label>
-          <div class="name-field">
-            <span>⌁</span
-            ><input
-              id="nickname"
-              maxlength="20"
-              placeholder="Введите ник"
-              autocomplete="nickname"
-            /><span class="input-status">✓</span>
-          </div>
-          <div class="field-label line-label">
-            КЛАСС ЗМЕИ <span id="class-hint">Скорость и мощный рывок</span>
-          </div>
-          <div class="class-picker" id="class-picker"></div>
-          <div class="field-label line-label">
-            ЭНЕРГЕТИЧЕСКИЙ ОБЛИК <button id="garage-link">ВСЕ ОБЛИКИ ↗</button>
-          </div>
-          <div id="skin-picker" class="skin-picker"></div>
-          <div class="loadout">
-            <label
-              >Q / СПОСОБНОСТЬ<select
-                id="ability-first"
-                aria-label="Первая способность"
-              ></select></label
-            ><label
-              >E / СПОСОБНОСТЬ<select
-                id="ability-second"
-                aria-label="Вторая способность"
-              ></select
-            ></label>
-          </div>
-          <label class="mode-select"
-            ><span>РЕЖИМ АРЕНЫ</span
-            ><select id="mode" aria-label="Режим игры"></select
-          ></label>
-          <button id="play" class="play-button">
-            <span>ВОЙТИ НА АРЕНУ</span><span>↗</span>
-          </button>
-          <div class="launch-foot">
-            <span class="status-dot"></span> НАСТОЯЩИЙ МУЛЬТИПЛЕЕР
-            <span>AI • PVP</span>
-          </div>
-        </section>
-        <div class="arena-caption">
-          <span class="orbit-mark">◎</span>
-          <div>
-            БЕСКОНЕЧНАЯ ОХОТА<small
-              >Твоя следующая эволюция начинается здесь.</small
-            >
-          </div>
-          <span class="coordinate">SECTOR 07<br />42° / NEON</span>
-        </div>
-      </main>
-      <footer class="lobby-footer">
-        <nav>
-          <button data-panel="garage"><span>◇</span> Гараж</button
-          ><button data-panel="quests">
-            <span>≡</span> Задания <i id="quest-dot"></i></button
-          ><button data-panel="achievements"><span>♜</span> Достижения</button
-          ><button data-panel="records"><span>↗</span> Рекорды</button
-          ><button data-panel="account"><span>◎</span> Аккаунт</button>
-        </nav>
-        <span class="footer-hint"
-          >МЫШЬ — ДВИЖЕНИЕ <b>·</b> SPACE — УСКОРЕНИЕ</span
-        >
-      </footer>
+    <div class="ambient">
+      <div class="ambient-orb"></div>
+      <div class="ambient-grid"></div>
     </div>
-    <div id="hud" hidden>
-      <div class="hud-top">
-        <div class="hud-brand">
-          ϟ <b>NEON SERPENTS</b><small id="room-label">АРЕНА 01</small>
-        </div>
-        <div class="hud-stats">
-          <span>МАССА<b id="mass">32</b></span
-          ><span>УБИЙСТВА<b id="kills">0</b></span
-          ><span>ВРЕМЯ<b id="survival">00:00</b></span
-          ><span>РЕЙТИНГ<b id="rank">#1</b></span>
-        </div>
-        <button class="icon-button" id="pause" aria-label="Меню">☰</button>
-      </div>
-      <div id="event-banner" hidden></div>
-      <div id="boss-bar" hidden>
-        <span>ДРЕВНИЙ ЗМЕЙ / ФАЗА <b id="boss-phase">1</b></span
-        ><progress id="boss-health" max="180" value="180"></progress
-        ><small>Импульс наносит урон • Призрак атакует тело</small>
-      </div>
-      <aside class="leaderboard">
-        <div class="board-title">ЛИДЕРЫ АРЕНЫ <span>↗</span></div>
-        <ol id="leaders"></ol>
-      </aside>
-      <canvas id="minimap" width="160" height="160"></canvas>
-      <div id="telemetry">60 FPS / 0 MS</div>
-      <div class="hud-bottom">
-        <div class="energy-panel">
-          <div>ЭНЕРГИЯ <b id="energy-value">100</b></div>
-          <progress id="energy" max="100" value="100"></progress
-          ><small>SPACE / удерживайте для ускорения</small>
-        </div>
-        <div id="abilities" class="ability-buttons"></div>
-      </div>
-      <div id="joystick"><div id="joystick-knob"></div></div>
-      <button id="touch-boost" aria-label="Ускорение">
-        ↯<small>BOOST</small>
-      </button>
-    </div>
-    <div id="modal" hidden>
-      <section class="modal-card">
-        <button id="modal-close" class="modal-close" aria-label="Закрыть">
+    <canvas id="effects"></canvas>
+    <div id="app"></div>
+    <div id="dialog" class="dialog" hidden>
+      <section id="dialog-card">
+        <button id="close-dialog" class="close-button" aria-label="Закрыть">
           ×
         </button>
-        <div id="modal-body"></div>
+        <div id="dialog-content"></div>
       </section>
     </div>
-    <div id="toasts" role="status" aria-live="polite"></div>
-    <div id="connection" hidden>Соединение потеряно. Переподключение…</div>
-    <script type="module" src="/src/main.js"></script>
+    <div id="tooltip" role="tooltip" hidden></div>
+    <div id="notifications" aria-live="polite"></div>
+    <script type="module" src="/src/abyss/main.ts"></script>
   </body>
 </html>

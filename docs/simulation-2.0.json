@@ -1,0 +1,8122 @@
+{
+  "averageEarnedMoney": 230.885,
+  "averageFinalMoney": 18.74,
+  "averageSimulationMs": 122.85044815000005,
+  "jokerUsage": {
+    "spark": {
+      "acquired": 186,
+      "final": 186,
+      "winRateWhenAcquired": 0.9516129032258065
+    },
+    "ledger": {
+      "acquired": 102,
+      "final": 38,
+      "winRateWhenAcquired": 0.9313725490196079
+    },
+    "heart": {
+      "acquired": 73,
+      "final": 0,
+      "winRateWhenAcquired": 0.9452054794520548
+    },
+    "ember": {
+      "acquired": 57,
+      "final": 0,
+      "winRateWhenAcquired": 0.9473684210526315
+    },
+    "ace": {
+      "acquired": 19,
+      "final": 0,
+      "winRateWhenAcquired": 0.9473684210526315
+    },
+    "royal": {
+      "acquired": 73,
+      "final": 1,
+      "winRateWhenAcquired": 0.9315068493150684
+    },
+    "pair": {
+      "acquired": 117,
+      "final": 33,
+      "winRateWhenAcquired": 0.9401709401709402
+    },
+    "straight": {
+      "acquired": 34,
+      "final": 0,
+      "winRateWhenAcquired": 0.8823529411764706
+    },
+    "flush": {
+      "acquired": 34,
+      "final": 0,
+      "winRateWhenAcquired": 0.9411764705882353
+    },
+    "variety": {
+      "acquired": 56,
+      "final": 30,
+      "winRateWhenAcquired": 0.9285714285714286
+    },
+    "echo": {
+      "acquired": 37,
+      "final": 22,
+      "winRateWhenAcquired": 0.972972972972973
+    },
+    "steel": {
+      "acquired": 16,
+      "final": 1,
+      "winRateWhenAcquired": 0.9375
+    },
+    "mirror": {
+      "acquired": 21,
+      "final": 4,
+      "winRateWhenAcquired": 0.9047619047619048
+    },
+    "reverse": {
+      "acquired": 26,
+      "final": 8,
+      "winRateWhenAcquired": 0.9230769230769231
+    },
+    "empty": {
+      "acquired": 20,
+      "final": 0,
+      "winRateWhenAcquired": 1
+    },
+    "relic": {
+      "acquired": 14,
+      "final": 1,
+      "winRateWhenAcquired": 1
+    },
+    "pyramid": {
+      "acquired": 157,
+      "final": 118,
+      "winRateWhenAcquired": 0.9171974522292994
+    },
+    "conductor": {
+      "acquired": 33,
+      "final": 0,
+      "winRateWhenAcquired": 0.9393939393939394
+    },
+    "bank": {
+      "acquired": 43,
+      "final": 0,
+      "winRateWhenAcquired": 0.9767441860465116
+    },
+    "mint": {
+      "acquired": 40,
+      "final": 0,
+      "winRateWhenAcquired": 0.95
+    },
+    "gardener": {
+      "acquired": 8,
+      "final": 0,
+      "winRateWhenAcquired": 1
+    },
+    "executioner": {
+      "acquired": 11,
+      "final": 0,
+      "winRateWhenAcquired": 1
+    },
+    "alchemist": {
+      "acquired": 20,
+      "final": 0,
+      "winRateWhenAcquired": 0.85
+    },
+    "scribe": {
+      "acquired": 52,
+      "final": 0,
+      "winRateWhenAcquired": 0.9230769230769231
+    },
+    "gambler": {
+      "acquired": 20,
+      "final": 1,
+      "winRateWhenAcquired": 0.8
+    },
+    "cerberus": {
+      "acquired": 33,
+      "final": 1,
+      "winRateWhenAcquired": 0.9696969696969697
+    },
+    "archive": {
+      "acquired": 152,
+      "final": 90,
+      "winRateWhenAcquired": 0.9605263157894737
+    },
+    "lone": {
+      "acquired": 13,
+      "final": 0,
+      "winRateWhenAcquired": 0.7692307692307693
+    },
+    "fourFingers": {
+      "acquired": 15,
+      "final": 0,
+      "winRateWhenAcquired": 0.9333333333333333
+    },
+    "cosmic": {
+      "acquired": 15,
+      "final": 0,
+      "winRateWhenAcquired": 0.9333333333333333
+    },
+    "chronos": {
+      "acquired": 19,
+      "final": 19,
+      "winRateWhenAcquired": 0.8947368421052632
+    },
+    "summoner": {
+      "acquired": 3,
+      "final": 0,
+      "winRateWhenAcquired": 1
+    },
+    "diamond": {
+      "acquired": 47,
+      "final": 0,
+      "winRateWhenAcquired": 0.9148936170212766
+    },
+    "spade": {
+      "acquired": 67,
+      "final": 0,
+      "winRateWhenAcquired": 0.9701492537313433
+    },
+    "fibonacci": {
+      "acquired": 63,
+      "final": 1,
+      "winRateWhenAcquired": 0.9047619047619048
+    },
+    "sacrifice": {
+      "acquired": 0,
+      "final": 0,
+      "winRateWhenAcquired": null
+    }
+  },
+  "rarityOffers": {
+    "common": 7224,
+    "uncommon": 2829,
+    "rare": 1004,
+    "legendary": 100
+  },
+  "outlierScores": [
+    {
+      "seed": "RELEASE-2-125",
+      "score": "4414032",
+      "jokers": [
+        "echo",
+        "spark",
+        "echo",
+        "pyramid",
+        "spark"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-100",
+      "score": "1548696",
+      "jokers": [
+        "echo",
+        "pair",
+        "echo",
+        "spark",
+        "spark"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-168",
+      "score": "293515",
+      "jokers": [
+        "pyramid",
+        "echo",
+        "variety",
+        "spark",
+        "variety"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-94",
+      "score": "283812",
+      "jokers": [
+        "echo",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-70",
+      "score": "249600",
+      "jokers": [
+        "echo",
+        "pyramid",
+        "archive",
+        "archive",
+        "archive"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-102",
+      "score": "192456",
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "spark",
+        "chronos"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-67",
+      "score": "190095",
+      "jokers": [
+        "echo",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-170",
+      "score": "170316",
+      "jokers": [
+        "echo",
+        "pair",
+        "pyramid",
+        "spark",
+        "chronos"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-84",
+      "score": "168307",
+      "jokers": [
+        "reverse",
+        "echo",
+        "spark",
+        "spark",
+        "spark"
+      ]
+    },
+    {
+      "seed": "RELEASE-2-122",
+      "score": "140368",
+      "jokers": [
+        "spark",
+        "spark",
+        "archive",
+        "pyramid",
+        "spark"
+      ]
+    }
+  ],
+  "notes": "Heuristic bot on base difficulty; acquisition and success are biased by its policy, not a human balance estimate. Timing is CPU simulation, not player session length or Android FPS.",
+  "runs": 200,
+  "wins": 186,
+  "winRate": 0.93,
+  "averageAnte": 7.955,
+  "averagePlays": 34.64,
+  "scoringSearchMs": {
+    "p50": 2.471916999998939,
+    "p95": 4.834830000000693
+  },
+  "seconds": 26.391734476,
+  "errors": [],
+  "challenges": [
+    {
+      "id": "hearts",
+      "winningSeed": "CHALLENGE-hearts-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "noSell",
+      "winningSeed": "CHALLENGE-noSell-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "debt",
+      "winningSeed": "CHALLENGE-debt-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "small",
+      "winningSeed": "CHALLENGE-small-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "pairOnly",
+      "winningSeed": "CHALLENGE-pairOnly-2",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "curse",
+      "winningSeed": "CHALLENGE-curse-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "noShop",
+      "winningSeed": "CHALLENGE-noShop-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "noDiscard",
+      "winningSeed": "CHALLENGE-noDiscard-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "oneJoker",
+      "winningSeed": "CHALLENGE-oneJoker-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "poverty",
+      "winningSeed": "CHALLENGE-poverty-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "faces",
+      "winningSeed": "CHALLENGE-faces-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "rapid",
+      "winningSeed": "CHALLENGE-rapid-1",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "chaos",
+      "winningSeed": "CHALLENGE-chaos-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "fragile",
+      "winningSeed": "CHALLENGE-fragile-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    },
+    {
+      "id": "highOnly",
+      "winningSeed": "CHALLENGE-highOnly-0",
+      "bestAnte": 8,
+      "bestBlinds": 24,
+      "errors": []
+    }
+  ],
+  "results": [
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-0",
+      "challenge": "",
+      "elapsedMs": 191.28710500000003,
+      "moneyEarned": 236,
+      "found": [
+        "steel",
+        "diamond",
+        "bank",
+        "mint",
+        "flush",
+        "ace",
+        "scribe",
+        "heart",
+        "fibonacci",
+        "spark",
+        "pair",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "pair",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "26212",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-1",
+      "challenge": "",
+      "elapsedMs": 270.60839400000003,
+      "moneyEarned": 195,
+      "found": [
+        "straight",
+        "spade",
+        "pair",
+        "pyramid",
+        "scribe",
+        "ledger",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 12,
+        "rare": 7,
+        "legendary": 1
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 22,
+      "plays": 59,
+      "money": 10,
+      "jokers": [
+        "pair",
+        "pair",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "13071",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-2",
+      "challenge": "",
+      "elapsedMs": 94.56294100000002,
+      "moneyEarned": 233,
+      "found": [
+        "pair",
+        "bank",
+        "mint",
+        "spark",
+        "heart",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 11,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 25,
+      "jokers": [
+        "pair",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "71245",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-3",
+      "challenge": "",
+      "elapsedMs": 162.38781099999994,
+      "moneyEarned": 225,
+      "found": [
+        "pyramid",
+        "royal",
+        "alchemist",
+        "ledger",
+        "mint",
+        "spark"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 11,
+        "rare": 2,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 43,
+      "money": 17,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "27266",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-4",
+      "challenge": "",
+      "elapsedMs": 103.82003200000008,
+      "moneyEarned": 235,
+      "found": [
+        "spark",
+        "scribe",
+        "cosmic",
+        "archive",
+        "pair",
+        "flush",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 15,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 12,
+      "jokers": [
+        "spark",
+        "pair",
+        "spark",
+        "spark",
+        "chronos"
+      ],
+      "best": "32376",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-5",
+      "challenge": "",
+      "elapsedMs": 146.71467099999995,
+      "moneyEarned": 220,
+      "found": [
+        "straight",
+        "ember",
+        "diamond",
+        "executioner",
+        "spade",
+        "pyramid",
+        "ledger",
+        "scribe",
+        "variety",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 13,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 48,
+      "money": 23,
+      "jokers": [
+        "ledger",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "17080",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-6",
+      "challenge": "",
+      "elapsedMs": 94.40149199999996,
+      "moneyEarned": 236,
+      "found": [
+        "pair",
+        "empty",
+        "gambler",
+        "cosmic",
+        "archive",
+        "diamond",
+        "spark",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 16,
+        "rare": 5,
+        "legendary": 3
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 21,
+      "jokers": [
+        "archive",
+        "spark",
+        "spark",
+        "chronos",
+        "spark"
+      ],
+      "best": "69152",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-7",
+      "challenge": "",
+      "elapsedMs": 114.09773599999994,
+      "moneyEarned": 221,
+      "found": [
+        "reverse",
+        "pyramid",
+        "spark",
+        "archive",
+        "ledger",
+        "mirror",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 8,
+        "rare": 6,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "archive",
+        "chronos",
+        "archive",
+        "spark"
+      ],
+      "best": "60681",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-8",
+      "challenge": "",
+      "elapsedMs": 107.98389500000008,
+      "moneyEarned": 232,
+      "found": [
+        "variety",
+        "ledger",
+        "spade",
+        "bank",
+        "pair",
+        "conductor",
+        "gambler",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 14,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 24,
+      "jokers": [
+        "variety",
+        "variety",
+        "pyramid",
+        "archive",
+        "archive"
+      ],
+      "best": "82110",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-9",
+      "challenge": "",
+      "elapsedMs": 111.34815100000014,
+      "moneyEarned": 231,
+      "found": [
+        "pyramid",
+        "ledger",
+        "flush",
+        "pair",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 15,
+        "rare": 2,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 18,
+      "jokers": [
+        "pair",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "19500",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-10",
+      "challenge": "",
+      "elapsedMs": 89.79196899999988,
+      "moneyEarned": 251,
+      "found": [
+        "flush",
+        "spade",
+        "archive",
+        "mint",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 11,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 30,
+      "jokers": [
+        "archive",
+        "spark",
+        "archive",
+        "archive",
+        "spark"
+      ],
+      "best": "49507",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-11",
+      "challenge": "",
+      "elapsedMs": 113.00798500000019,
+      "moneyEarned": 211,
+      "found": [
+        "echo",
+        "heart",
+        "alchemist",
+        "archive",
+        "diamond",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 28,
+        "uncommon": 15,
+        "rare": 10,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 15,
+      "jokers": [
+        "echo",
+        "archive",
+        "archive",
+        "echo",
+        "archive"
+      ],
+      "best": "38700",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-12",
+      "challenge": "",
+      "elapsedMs": 123.67098899999996,
+      "moneyEarned": 228,
+      "found": [
+        "reverse",
+        "heart",
+        "flush",
+        "archive",
+        "ledger",
+        "pair",
+        "scribe",
+        "spark",
+        "summoner",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 17,
+      "jokers": [
+        "archive",
+        "ledger",
+        "spark",
+        "spark",
+        "pyramid"
+      ],
+      "best": "25969",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-13",
+      "challenge": "",
+      "elapsedMs": 97.77367500000014,
+      "moneyEarned": 237,
+      "found": [
+        "heart",
+        "executioner",
+        "archive",
+        "spark",
+        "royal",
+        "pair",
+        "gambler",
+        "pyramid",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 14,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "42379",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-14",
+      "challenge": "",
+      "elapsedMs": 85.43062400000008,
+      "moneyEarned": 225,
+      "found": [
+        "archive",
+        "steel",
+        "spade",
+        "variety",
+        "pair",
+        "pyramid",
+        "reverse",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 9,
+        "rare": 11,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 21,
+      "jokers": [
+        "pyramid",
+        "reverse",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "28598",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-15",
+      "challenge": "",
+      "elapsedMs": 86.25648499999988,
+      "moneyEarned": 228,
+      "found": [
+        "pair",
+        "heart",
+        "ledger",
+        "royal",
+        "scribe",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 46,
+        "uncommon": 7,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 21,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "35730",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-16",
+      "challenge": "",
+      "elapsedMs": 121.78410499999973,
+      "moneyEarned": 197,
+      "found": [
+        "royal",
+        "heart",
+        "alchemist",
+        "pyramid",
+        "straight",
+        "ledger",
+        "archive",
+        "gambler",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 46,
+      "money": 2,
+      "jokers": [
+        "pyramid",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "22560",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-17",
+      "challenge": "",
+      "elapsedMs": 125.66747600000008,
+      "moneyEarned": 203,
+      "found": [
+        "scribe",
+        "conductor",
+        "ledger",
+        "lone",
+        "ember",
+        "pair",
+        "variety",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 16,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 45,
+      "money": 2,
+      "jokers": [
+        "ledger",
+        "pair",
+        "variety",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "16039",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-18",
+      "challenge": "",
+      "elapsedMs": 116.42813999999998,
+      "moneyEarned": 235,
+      "found": [
+        "straight",
+        "royal",
+        "spark",
+        "archive",
+        "cerberus",
+        "echo",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 11,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "26052",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-19",
+      "challenge": "",
+      "elapsedMs": 147.26631099999986,
+      "moneyEarned": 228,
+      "found": [
+        "royal",
+        "spade",
+        "heart",
+        "mint",
+        "cosmic",
+        "fibonacci",
+        "pyramid",
+        "reverse",
+        "spark",
+        "scribe",
+        "echo"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 15,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 45,
+      "money": 10,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "14515",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-20",
+      "challenge": "",
+      "elapsedMs": 92.7568339999998,
+      "moneyEarned": 237,
+      "found": [
+        "variety",
+        "royal",
+        "echo",
+        "archive",
+        "ember",
+        "spade",
+        "pyramid",
+        "gambler",
+        "fibonacci",
+        "spark"
+      ],
+      "rarities": {
+        "common": 32,
+        "uncommon": 14,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 23,
+      "jokers": [
+        "variety",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "28163",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-21",
+      "challenge": "",
+      "elapsedMs": 146.23625500000026,
+      "moneyEarned": 230,
+      "found": [
+        "relic",
+        "ledger",
+        "spade",
+        "empty",
+        "archive",
+        "pair",
+        "spark",
+        "pyramid",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 12,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "archive",
+        "spark"
+      ],
+      "best": "66614",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-22",
+      "challenge": "",
+      "elapsedMs": 168.86819399999968,
+      "moneyEarned": 229,
+      "found": [
+        "scribe",
+        "spade",
+        "pyramid",
+        "empty",
+        "straight",
+        "reverse",
+        "spark",
+        "archive"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 42,
+      "money": 9,
+      "jokers": [
+        "pyramid",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "18270",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-23",
+      "challenge": "",
+      "elapsedMs": 126.10296699999981,
+      "moneyEarned": 239,
+      "found": [
+        "spark",
+        "spade",
+        "conductor",
+        "scribe",
+        "bank",
+        "fourFingers",
+        "cerberus",
+        "archive"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 17,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 17,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "33300",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-24",
+      "challenge": "",
+      "elapsedMs": 113.01848599999994,
+      "moneyEarned": 230,
+      "found": [
+        "spark",
+        "pair",
+        "bank",
+        "ember",
+        "heart",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 16,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "46368",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-25",
+      "challenge": "",
+      "elapsedMs": 77.53178800000023,
+      "moneyEarned": 232,
+      "found": [
+        "royal",
+        "bank",
+        "spade",
+        "cerberus",
+        "pyramid",
+        "ember",
+        "archive",
+        "fibonacci",
+        "spark",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 11,
+        "rare": 8,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 16,
+      "jokers": [
+        "archive",
+        "archive",
+        "spark",
+        "chronos",
+        "spark"
+      ],
+      "best": "51321",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-26",
+      "challenge": "",
+      "elapsedMs": 72.08035400000017,
+      "moneyEarned": 256,
+      "found": [
+        "heart",
+        "mint",
+        "ledger",
+        "ember",
+        "empty",
+        "spade",
+        "spark",
+        "archive",
+        "variety"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "archive",
+        "variety",
+        "archive",
+        "archive"
+      ],
+      "best": "75037",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-27",
+      "challenge": "",
+      "elapsedMs": 129.41338599999972,
+      "moneyEarned": 228,
+      "found": [
+        "ember",
+        "bank",
+        "archive",
+        "pyramid",
+        "straight",
+        "steel",
+        "fibonacci",
+        "spark",
+        "reverse"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 16,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 17,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "13250",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-28",
+      "challenge": "",
+      "elapsedMs": 110.83833600000025,
+      "moneyEarned": 217,
+      "found": [
+        "pyramid",
+        "ledger",
+        "bank",
+        "spark",
+        "spade"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 21,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "36547",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-29",
+      "challenge": "",
+      "elapsedMs": 95.17831100000012,
+      "moneyEarned": 238,
+      "found": [
+        "archive",
+        "spade",
+        "royal",
+        "lone",
+        "spark",
+        "ledger",
+        "cerberus",
+        "gambler",
+        "pair",
+        "echo"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 16,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "echo",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "47382",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-30",
+      "challenge": "",
+      "elapsedMs": 135.8555419999998,
+      "moneyEarned": 219,
+      "found": [
+        "scribe",
+        "pair",
+        "royal",
+        "diamond",
+        "cerberus",
+        "echo",
+        "spark",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 17,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 23,
+      "jokers": [
+        "pair",
+        "echo",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "49680",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-31",
+      "challenge": "",
+      "elapsedMs": 108.19219000000021,
+      "moneyEarned": 220,
+      "found": [
+        "ledger",
+        "diamond",
+        "cerberus",
+        "pair",
+        "spade",
+        "pyramid",
+        "variety",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 10,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 24,
+      "jokers": [
+        "ledger",
+        "archive",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "20204",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-32",
+      "challenge": "",
+      "elapsedMs": 100.20888700000023,
+      "moneyEarned": 130,
+      "found": [
+        "ledger",
+        "fourFingers",
+        "diamond",
+        "straight",
+        "pyramid",
+        "reverse",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 27,
+        "uncommon": 6,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 5,
+      "blinds": 14,
+      "plays": 33,
+      "money": 3,
+      "jokers": [
+        "ledger",
+        "pyramid",
+        "pyramid",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "4407",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-33",
+      "challenge": "",
+      "elapsedMs": 76.93277500000022,
+      "moneyEarned": 238,
+      "found": [
+        "diamond",
+        "empty",
+        "conductor",
+        "royal",
+        "ace",
+        "ember",
+        "spade",
+        "scribe",
+        "flush",
+        "spark",
+        "mirror",
+        "archive",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 13,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "mirror",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "best": "49061",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-34",
+      "challenge": "",
+      "elapsedMs": 99.27688399999988,
+      "moneyEarned": 249,
+      "found": [
+        "cosmic",
+        "mint",
+        "conductor",
+        "ledger",
+        "steel",
+        "spade",
+        "heart",
+        "spark",
+        "archive",
+        "variety"
+      ],
+      "rarities": {
+        "common": 29,
+        "uncommon": 19,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "24907",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-35",
+      "challenge": "",
+      "elapsedMs": 100.837399,
+      "moneyEarned": 234,
+      "found": [
+        "conductor",
+        "ember",
+        "spade",
+        "fibonacci",
+        "pair",
+        "heart",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 40,
+      "money": 25,
+      "jokers": [
+        "pair",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "45763",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-36",
+      "challenge": "",
+      "elapsedMs": 133.22762299999977,
+      "moneyEarned": 234,
+      "found": [
+        "flush",
+        "diamond",
+        "straight",
+        "empty",
+        "mint",
+        "royal",
+        "lone",
+        "pair",
+        "scribe",
+        "ledger",
+        "echo",
+        "spark",
+        "archive"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 47,
+      "money": 17,
+      "jokers": [
+        "pair",
+        "ledger",
+        "echo",
+        "spark",
+        "spark"
+      ],
+      "best": "82252",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-37",
+      "challenge": "",
+      "elapsedMs": 97.39614299999994,
+      "moneyEarned": 233,
+      "found": [
+        "variety",
+        "pair",
+        "pyramid",
+        "heart",
+        "spade",
+        "archive",
+        "flush",
+        "spark"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 15,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 22,
+      "jokers": [
+        "variety",
+        "archive",
+        "spark",
+        "variety",
+        "spark"
+      ],
+      "best": "105476",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-38",
+      "challenge": "",
+      "elapsedMs": 115.05467300000055,
+      "moneyEarned": 230,
+      "found": [
+        "empty",
+        "spade",
+        "bank",
+        "fibonacci",
+        "heart",
+        "steel",
+        "spark",
+        "fourFingers",
+        "straight",
+        "variety",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 22,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 42,
+      "money": 23,
+      "jokers": [
+        "fibonacci",
+        "spark",
+        "variety",
+        "pyramid",
+        "archive"
+      ],
+      "best": "32131",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-39",
+      "challenge": "",
+      "elapsedMs": 96.0622800000001,
+      "moneyEarned": 238,
+      "found": [
+        "archive",
+        "royal",
+        "ledger",
+        "pair",
+        "gambler",
+        "spark",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 9,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 11,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "36754",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-40",
+      "challenge": "",
+      "elapsedMs": 95.8143600000003,
+      "moneyEarned": 229,
+      "found": [
+        "pyramid",
+        "heart",
+        "bank",
+        "reverse",
+        "ledger",
+        "ember",
+        "lone",
+        "spark",
+        "archive",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 11,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 25,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "spark",
+        "archive",
+        "pyramid"
+      ],
+      "best": "24983",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-41",
+      "challenge": "",
+      "elapsedMs": 93.99451699999918,
+      "moneyEarned": 245,
+      "found": [
+        "spark",
+        "ember",
+        "ledger",
+        "gardener",
+        "archive",
+        "fibonacci",
+        "scribe",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 9,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "21798",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-42",
+      "challenge": "",
+      "elapsedMs": 112.6022950000006,
+      "moneyEarned": 226,
+      "found": [
+        "pyramid",
+        "conductor",
+        "heart",
+        "echo",
+        "fourFingers",
+        "flush",
+        "ledger",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 21,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 42,
+      "money": 19,
+      "jokers": [
+        "echo",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "44452",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-43",
+      "challenge": "",
+      "elapsedMs": 121.61669100000017,
+      "moneyEarned": 224,
+      "found": [
+        "scribe",
+        "spade",
+        "ember",
+        "spark",
+        "variety",
+        "pair",
+        "fibonacci",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 18,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 18,
+      "jokers": [
+        "spark",
+        "variety",
+        "spark",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "57917",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-44",
+      "challenge": "",
+      "elapsedMs": 71.50336999999945,
+      "moneyEarned": 248,
+      "found": [
+        "spade",
+        "royal",
+        "variety",
+        "spark",
+        "archive",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 13,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "31500",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-45",
+      "challenge": "",
+      "elapsedMs": 93.11944399999993,
+      "moneyEarned": 226,
+      "found": [
+        "archive",
+        "variety",
+        "royal",
+        "pyramid",
+        "pair",
+        "echo"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 16,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 25,
+      "jokers": [
+        "archive",
+        "variety",
+        "pyramid",
+        "archive",
+        "archive"
+      ],
+      "best": "54749",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-46",
+      "challenge": "",
+      "elapsedMs": 107.19141800000034,
+      "moneyEarned": 226,
+      "found": [
+        "pyramid",
+        "mint",
+        "heart",
+        "pair",
+        "lone",
+        "archive",
+        "spark",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 13,
+        "rare": 4,
+        "legendary": 3
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 19,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "chronos",
+        "spark",
+        "spark"
+      ],
+      "best": "22534",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-47",
+      "challenge": "",
+      "elapsedMs": 84.79285600000003,
+      "moneyEarned": 240,
+      "found": [
+        "straight",
+        "spade",
+        "heart",
+        "bank",
+        "royal",
+        "ember",
+        "spark",
+        "ledger",
+        "pyramid",
+        "archive",
+        "pair",
+        "fibonacci",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 16,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "spark",
+        "pyramid"
+      ],
+      "best": "80449",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-48",
+      "challenge": "",
+      "elapsedMs": 83.32169599999997,
+      "moneyEarned": 242,
+      "found": [
+        "mint",
+        "pyramid",
+        "relic",
+        "pair",
+        "conductor",
+        "spark",
+        "archive",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 13,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "archive",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "44553",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-49",
+      "challenge": "",
+      "elapsedMs": 99.83778400000028,
+      "moneyEarned": 245,
+      "found": [
+        "ledger",
+        "mint",
+        "spark",
+        "heart",
+        "cerberus",
+        "royal",
+        "fibonacci",
+        "variety",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 13,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "spark",
+        "variety",
+        "spark",
+        "spark"
+      ],
+      "best": "19855",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-50",
+      "challenge": "",
+      "elapsedMs": 90.87592900000072,
+      "moneyEarned": 231,
+      "found": [
+        "archive",
+        "executioner",
+        "ledger",
+        "fibonacci",
+        "diamond",
+        "alchemist",
+        "pyramid",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 9,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 23,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "24192",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-51",
+      "challenge": "",
+      "elapsedMs": 87.03286200000002,
+      "moneyEarned": 224,
+      "found": [
+        "conductor",
+        "diamond",
+        "ledger",
+        "heart",
+        "archive",
+        "pair",
+        "straight",
+        "chronos",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 16,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 17,
+      "jokers": [
+        "archive",
+        "chronos",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "15246",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-52",
+      "challenge": "",
+      "elapsedMs": 126.49959300000046,
+      "moneyEarned": 247,
+      "found": [
+        "flush",
+        "mint",
+        "pair",
+        "bank",
+        "relic",
+        "ledger",
+        "spark",
+        "variety",
+        "pyramid",
+        "archive",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 16,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "variety",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "23073",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-53",
+      "challenge": "",
+      "elapsedMs": 119.0522689999998,
+      "moneyEarned": 225,
+      "found": [
+        "straight",
+        "flush",
+        "spark",
+        "archive",
+        "scribe",
+        "fibonacci",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "54312",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-54",
+      "challenge": "",
+      "elapsedMs": 124.88307799999984,
+      "moneyEarned": 235,
+      "found": [
+        "archive",
+        "fourFingers",
+        "empty",
+        "ledger",
+        "spade",
+        "heart",
+        "pyramid",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 18,
+      "jokers": [
+        "pyramid",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "29536",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-55",
+      "challenge": "",
+      "elapsedMs": 133.9085359999999,
+      "moneyEarned": 231,
+      "found": [
+        "royal",
+        "mint",
+        "diamond",
+        "fibonacci",
+        "ace",
+        "spark",
+        "lone",
+        "ledger",
+        "variety",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 20,
+        "rare": 3,
+        "legendary": 2
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 36,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "spark",
+        "variety",
+        "spark",
+        "chronos"
+      ],
+      "best": "42967",
+      "reason": "Не выполнено условие разнообразия босса",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-56",
+      "challenge": "",
+      "elapsedMs": 169.45942600000035,
+      "moneyEarned": 213,
+      "found": [
+        "steel",
+        "spade",
+        "pyramid",
+        "ledger",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 16,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 48,
+      "money": 24,
+      "jokers": [
+        "ledger",
+        "pair",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "20561",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-57",
+      "challenge": "",
+      "elapsedMs": 91.66815000000042,
+      "moneyEarned": 239,
+      "found": [
+        "archive",
+        "royal",
+        "straight",
+        "conductor",
+        "diamond",
+        "pyramid",
+        "ledger",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 10,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 20,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "39542",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-58",
+      "challenge": "",
+      "elapsedMs": 115.76890100000037,
+      "moneyEarned": 242,
+      "found": [
+        "archive",
+        "straight",
+        "empty",
+        "pyramid",
+        "gardener",
+        "fibonacci",
+        "royal",
+        "spark",
+        "scribe",
+        "variety"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 17,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 16,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "variety",
+        "spark",
+        "spark"
+      ],
+      "best": "50048",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-59",
+      "challenge": "",
+      "elapsedMs": 120.73697799999991,
+      "moneyEarned": 221,
+      "found": [
+        "archive",
+        "ace",
+        "conductor",
+        "diamond",
+        "ledger",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 18,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 44,
+      "money": 22,
+      "jokers": [
+        "ledger",
+        "ledger",
+        "ledger",
+        "spark",
+        "spark"
+      ],
+      "best": "19555",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-60",
+      "challenge": "",
+      "elapsedMs": 116.00003600000036,
+      "moneyEarned": 235,
+      "found": [
+        "reverse",
+        "ledger",
+        "royal",
+        "ember",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 14,
+        "rare": 5,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 21,
+      "jokers": [
+        "ledger",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "26402",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-61",
+      "challenge": "",
+      "elapsedMs": 111.28890899999988,
+      "moneyEarned": 237,
+      "found": [
+        "flush",
+        "royal",
+        "pyramid",
+        "spark",
+        "pair"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 12,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "21500",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-62",
+      "challenge": "",
+      "elapsedMs": 82.9481139999998,
+      "moneyEarned": 233,
+      "found": [
+        "ledger",
+        "ember",
+        "spark",
+        "conductor",
+        "ace",
+        "archive",
+        "heart",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 19,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 22,
+      "jokers": [
+        "ledger",
+        "spark",
+        "archive",
+        "spark",
+        "pyramid"
+      ],
+      "best": "112606",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-63",
+      "challenge": "",
+      "elapsedMs": 90.39127800000006,
+      "moneyEarned": 237,
+      "found": [
+        "variety",
+        "diamond",
+        "spade",
+        "royal",
+        "echo",
+        "spark",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 32,
+        "uncommon": 14,
+        "rare": 9,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 20,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "28026",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-64",
+      "challenge": "",
+      "elapsedMs": 81.14545100000032,
+      "moneyEarned": 251,
+      "found": [
+        "archive",
+        "diamond",
+        "mint",
+        "alchemist",
+        "cosmic",
+        "spade",
+        "heart",
+        "pair",
+        "flush",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 46,
+        "uncommon": 10,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 25,
+      "jokers": [
+        "archive",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "45866",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-65",
+      "challenge": "",
+      "elapsedMs": 83.16766699999971,
+      "moneyEarned": 253,
+      "found": [
+        "conductor",
+        "heart",
+        "ace",
+        "royal",
+        "archive",
+        "reverse",
+        "spark"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 19,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 24,
+      "jokers": [
+        "royal",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "28383",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-66",
+      "challenge": "",
+      "elapsedMs": 101.89201899999989,
+      "moneyEarned": 245,
+      "found": [
+        "pyramid",
+        "ledger",
+        "fibonacci",
+        "archive",
+        "ember",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 17,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "109022",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-67",
+      "challenge": "",
+      "elapsedMs": 131.65094399999998,
+      "moneyEarned": 241,
+      "found": [
+        "pyramid",
+        "echo",
+        "fourFingers",
+        "mirror",
+        "fibonacci",
+        "pair",
+        "variety",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 12,
+        "rare": 9,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 22,
+      "jokers": [
+        "echo",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "190095",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-68",
+      "challenge": "",
+      "elapsedMs": 119.44445300000007,
+      "moneyEarned": 251,
+      "found": [
+        "ember",
+        "bank",
+        "spark",
+        "heart",
+        "pyramid",
+        "royal",
+        "lone",
+        "fourFingers",
+        "variety",
+        "straight",
+        "archive"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 16,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "87768",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-69",
+      "challenge": "",
+      "elapsedMs": 165.99832400000014,
+      "moneyEarned": 204,
+      "found": [
+        "diamond",
+        "ember",
+        "spade",
+        "scribe",
+        "spark",
+        "ledger",
+        "conductor",
+        "variety",
+        "gambler"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 11,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 43,
+      "money": 9,
+      "jokers": [
+        "spark",
+        "ledger",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "40780",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-70",
+      "challenge": "",
+      "elapsedMs": 150.01349799999934,
+      "moneyEarned": 247,
+      "found": [
+        "flush",
+        "cosmic",
+        "echo",
+        "pyramid",
+        "spade",
+        "royal",
+        "pair",
+        "summoner",
+        "archive",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 18,
+        "rare": 6,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 34,
+      "jokers": [
+        "echo",
+        "pyramid",
+        "archive",
+        "archive",
+        "archive"
+      ],
+      "best": "249600",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-71",
+      "challenge": "",
+      "elapsedMs": 161.01276900000084,
+      "moneyEarned": 217,
+      "found": [
+        "heart",
+        "alchemist",
+        "executioner",
+        "pyramid",
+        "fibonacci",
+        "conductor",
+        "ledger",
+        "spark"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 21,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 42,
+      "money": 24,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "30564",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-72",
+      "challenge": "",
+      "elapsedMs": 118.90265499999987,
+      "moneyEarned": 227,
+      "found": [
+        "spark",
+        "straight",
+        "pair",
+        "ledger",
+        "archive"
+      ],
+      "rarities": {
+        "common": 44,
+        "uncommon": 9,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 28,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "archive",
+        "spark"
+      ],
+      "best": "46828",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-73",
+      "challenge": "",
+      "elapsedMs": 74.17535400000088,
+      "moneyEarned": 220,
+      "found": [
+        "pyramid",
+        "pair",
+        "archive",
+        "ember",
+        "heart",
+        "variety"
+      ],
+      "rarities": {
+        "common": 28,
+        "uncommon": 22,
+        "rare": 7,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 17,
+      "jokers": [
+        "pyramid",
+        "archive",
+        "variety",
+        "archive",
+        "archive"
+      ],
+      "best": "53524",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-74",
+      "challenge": "",
+      "elapsedMs": 124.35187499999847,
+      "moneyEarned": 230,
+      "found": [
+        "ledger",
+        "gardener",
+        "heart",
+        "spark",
+        "bank",
+        "pyramid",
+        "diamond",
+        "archive"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 18,
+        "rare": 2,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "22064",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-75",
+      "challenge": "",
+      "elapsedMs": 225.28852300000108,
+      "moneyEarned": 206,
+      "found": [
+        "relic",
+        "ember",
+        "ledger",
+        "spade",
+        "pyramid",
+        "straight",
+        "scribe",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 12,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 47,
+      "money": 18,
+      "jokers": [
+        "ledger",
+        "ledger",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "15360",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-76",
+      "challenge": "",
+      "elapsedMs": 88.43239700000049,
+      "moneyEarned": 238,
+      "found": [
+        "conductor",
+        "diamond",
+        "scribe",
+        "royal",
+        "spade",
+        "spark",
+        "pyramid",
+        "archive",
+        "pair"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 18,
+        "rare": 1,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "17370",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-77",
+      "challenge": "",
+      "elapsedMs": 73.50361599999997,
+      "moneyEarned": 233,
+      "found": [
+        "scribe",
+        "ace",
+        "ledger",
+        "variety",
+        "bank",
+        "spark",
+        "pyramid",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 9,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 17,
+      "jokers": [
+        "variety",
+        "spark",
+        "spark",
+        "spark",
+        "chronos"
+      ],
+      "best": "54172",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-78",
+      "challenge": "",
+      "elapsedMs": 70.13075299999946,
+      "moneyEarned": 245,
+      "found": [
+        "spark",
+        "royal",
+        "diamond",
+        "fourFingers",
+        "heart",
+        "pyramid",
+        "reverse",
+        "ledger"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 9,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "33972",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-79",
+      "challenge": "",
+      "elapsedMs": 86.24650900000051,
+      "moneyEarned": 251,
+      "found": [
+        "straight",
+        "spade",
+        "pair",
+        "bank",
+        "archive",
+        "heart",
+        "ledger",
+        "reverse",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 14,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 24,
+      "jokers": [
+        "archive",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "48648",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-80",
+      "challenge": "",
+      "elapsedMs": 86.45609700000023,
+      "moneyEarned": 238,
+      "found": [
+        "cerberus",
+        "pair",
+        "fibonacci",
+        "bank",
+        "mint",
+        "ledger",
+        "heart",
+        "archive",
+        "spark",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 14,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "38448",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-81",
+      "challenge": "",
+      "elapsedMs": 121.71730000000025,
+      "moneyEarned": 208,
+      "found": [
+        "gambler",
+        "flush",
+        "diamond",
+        "bank",
+        "ledger",
+        "empty",
+        "pair",
+        "heart",
+        "archive",
+        "scribe",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 29,
+        "uncommon": 20,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 44,
+      "money": 12,
+      "jokers": [
+        "ledger",
+        "pair",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "29601",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-82",
+      "challenge": "",
+      "elapsedMs": 132.30261000000064,
+      "moneyEarned": 226,
+      "found": [
+        "spark",
+        "heart",
+        "spade",
+        "pyramid",
+        "scribe",
+        "ledger",
+        "pair",
+        "variety",
+        "fibonacci",
+        "archive"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "best": "138336",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-83",
+      "challenge": "",
+      "elapsedMs": 93.37253400000009,
+      "moneyEarned": 251,
+      "found": [
+        "heart",
+        "alchemist",
+        "empty",
+        "steel",
+        "ember",
+        "diamond",
+        "royal",
+        "pair",
+        "pyramid",
+        "scribe",
+        "spark",
+        "archive",
+        "variety",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 19,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 17,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "archive",
+        "archive",
+        "pyramid"
+      ],
+      "best": "43659",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-84",
+      "challenge": "",
+      "elapsedMs": 153.58744500000103,
+      "moneyEarned": 221,
+      "found": [
+        "reverse",
+        "diamond",
+        "pair",
+        "echo",
+        "ace",
+        "heart",
+        "spark",
+        "archive"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 11,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 23,
+      "jokers": [
+        "reverse",
+        "echo",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "168307",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-85",
+      "challenge": "",
+      "elapsedMs": 144.3483070000002,
+      "moneyEarned": 228,
+      "found": [
+        "pyramid",
+        "bank",
+        "spade",
+        "reverse",
+        "steel",
+        "ledger",
+        "variety",
+        "fibonacci",
+        "archive",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 14,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 18,
+      "jokers": [
+        "pyramid",
+        "pyramid",
+        "variety",
+        "archive",
+        "chronos"
+      ],
+      "best": "36316",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-86",
+      "challenge": "",
+      "elapsedMs": 116.22982400000001,
+      "moneyEarned": 232,
+      "found": [
+        "variety",
+        "pair",
+        "spade",
+        "heart",
+        "scribe",
+        "pyramid",
+        "echo",
+        "spark"
+      ],
+      "rarities": {
+        "common": 32,
+        "uncommon": 16,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 21,
+      "jokers": [
+        "variety",
+        "echo",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "70736",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-87",
+      "challenge": "",
+      "elapsedMs": 111.34309700000085,
+      "moneyEarned": 230,
+      "found": [
+        "bank",
+        "fibonacci",
+        "flush",
+        "ember",
+        "mint",
+        "pair",
+        "spade",
+        "archive",
+        "pyramid",
+        "echo",
+        "spark"
+      ],
+      "rarities": {
+        "common": 28,
+        "uncommon": 17,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 6,
+      "jokers": [
+        "archive",
+        "pyramid",
+        "archive",
+        "echo",
+        "spark"
+      ],
+      "best": "82320",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-88",
+      "challenge": "",
+      "elapsedMs": 84.93290800000068,
+      "moneyEarned": 235,
+      "found": [
+        "gambler",
+        "royal",
+        "spade",
+        "ember",
+        "mirror",
+        "fibonacci",
+        "spark",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 44,
+        "uncommon": 7,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 17,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "archive",
+        "spark"
+      ],
+      "best": "33339",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-89",
+      "challenge": "",
+      "elapsedMs": 110.5667799999992,
+      "moneyEarned": 241,
+      "found": [
+        "pair",
+        "bank",
+        "conductor",
+        "diamond",
+        "ember",
+        "heart",
+        "spade",
+        "relic",
+        "variety",
+        "spark",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 44,
+        "uncommon": 8,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 22,
+      "jokers": [
+        "pair",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "50863",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-90",
+      "challenge": "",
+      "elapsedMs": 81.15417100000013,
+      "moneyEarned": 237,
+      "found": [
+        "alchemist",
+        "executioner",
+        "pair",
+        "royal",
+        "diamond",
+        "ledger",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 10,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 22,
+      "jokers": [
+        "pair",
+        "ledger",
+        "pair",
+        "spark",
+        "spark"
+      ],
+      "best": "41545",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-91",
+      "challenge": "",
+      "elapsedMs": 96.19227400000091,
+      "moneyEarned": 241,
+      "found": [
+        "archive",
+        "mint",
+        "ace",
+        "empty",
+        "royal",
+        "flush",
+        "straight",
+        "fibonacci",
+        "pair",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 20,
+        "rare": 1,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 16,
+      "jokers": [
+        "archive",
+        "archive",
+        "archive",
+        "pyramid",
+        "archive"
+      ],
+      "best": "47668",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-92",
+      "challenge": "",
+      "elapsedMs": 81.05196599999908,
+      "moneyEarned": 234,
+      "found": [
+        "pyramid",
+        "bank",
+        "ledger",
+        "conductor",
+        "fourFingers",
+        "spark",
+        "pair",
+        "archive"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 12,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 22,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "spark",
+        "spark",
+        "archive"
+      ],
+      "best": "49393",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-93",
+      "challenge": "",
+      "elapsedMs": 83.95308300000033,
+      "moneyEarned": 229,
+      "found": [
+        "ledger",
+        "bank",
+        "spark",
+        "pair",
+        "fibonacci",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 15,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "27667",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-94",
+      "challenge": "",
+      "elapsedMs": 91.88665800000126,
+      "moneyEarned": 233,
+      "found": [
+        "echo",
+        "diamond",
+        "pyramid",
+        "cerberus",
+        "spade",
+        "pair",
+        "fibonacci",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 15,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 21,
+      "jokers": [
+        "echo",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "283812",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-95",
+      "challenge": "",
+      "elapsedMs": 101.70283000000018,
+      "moneyEarned": 230,
+      "found": [
+        "ember",
+        "cosmic",
+        "spark",
+        "mirror",
+        "heart",
+        "flush",
+        "echo"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 3
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "21312",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-96",
+      "challenge": "",
+      "elapsedMs": 79.20097999999962,
+      "moneyEarned": 221,
+      "found": [
+        "pair",
+        "spade",
+        "spark",
+        "reverse",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 18,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 13,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "16380",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-97",
+      "challenge": "",
+      "elapsedMs": 117.99940600000082,
+      "moneyEarned": 223,
+      "found": [
+        "pyramid",
+        "heart",
+        "steel",
+        "variety",
+        "flush",
+        "archive",
+        "cerberus",
+        "spark"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 16,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 24,
+      "jokers": [
+        "pyramid",
+        "pyramid",
+        "archive",
+        "cerberus",
+        "spark"
+      ],
+      "best": "52466",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-98",
+      "challenge": "",
+      "elapsedMs": 100.62763599999926,
+      "moneyEarned": 230,
+      "found": [
+        "ace",
+        "bank",
+        "archive",
+        "gambler",
+        "spade",
+        "flush",
+        "spark"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 4,
+        "rare": 11,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 25,
+      "jokers": [
+        "archive",
+        "archive",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "67878",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-99",
+      "challenge": "",
+      "elapsedMs": 118.64209899999878,
+      "moneyEarned": 217,
+      "found": [
+        "gambler",
+        "mint",
+        "conductor",
+        "pyramid",
+        "ember",
+        "diamond",
+        "scribe",
+        "straight",
+        "archive",
+        "spark",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 14,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 37,
+      "money": 1,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "19002",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-100",
+      "challenge": "",
+      "elapsedMs": 97.97945299999992,
+      "moneyEarned": 240,
+      "found": [
+        "relic",
+        "royal",
+        "heart",
+        "mirror",
+        "echo",
+        "pair",
+        "spark",
+        "archive"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 10,
+        "rare": 10,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 8,
+      "jokers": [
+        "echo",
+        "pair",
+        "echo",
+        "spark",
+        "spark"
+      ],
+      "best": "1548696",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-101",
+      "challenge": "",
+      "elapsedMs": 90.42947900000036,
+      "moneyEarned": 229,
+      "found": [
+        "pair",
+        "heart",
+        "spark",
+        "cerberus",
+        "royal",
+        "flush",
+        "archive",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 14,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "best": "35504",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-102",
+      "challenge": "",
+      "elapsedMs": 107.64386000000013,
+      "moneyEarned": 223,
+      "found": [
+        "archive",
+        "royal",
+        "spark",
+        "straight",
+        "pyramid",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 18,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 12,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "spark",
+        "chronos"
+      ],
+      "best": "192456",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-103",
+      "challenge": "",
+      "elapsedMs": 78.57036499999958,
+      "moneyEarned": 249,
+      "found": [
+        "ember",
+        "mint",
+        "ledger",
+        "archive",
+        "heart",
+        "spade",
+        "royal",
+        "flush",
+        "echo",
+        "relic",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 11,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 10,
+      "jokers": [
+        "echo",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "104286",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-104",
+      "challenge": "",
+      "elapsedMs": 79.84091099999932,
+      "moneyEarned": 245,
+      "found": [
+        "pair",
+        "diamond",
+        "spark",
+        "mint",
+        "mirror",
+        "ember",
+        "archive",
+        "pyramid",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 32,
+        "uncommon": 12,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "spark",
+        "archive"
+      ],
+      "best": "49248",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-105",
+      "challenge": "",
+      "elapsedMs": 88.55252399999881,
+      "moneyEarned": 232,
+      "found": [
+        "ledger",
+        "gardener",
+        "scribe",
+        "archive",
+        "royal",
+        "bank",
+        "pyramid",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 22,
+      "jokers": [
+        "ledger",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "34160",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-106",
+      "challenge": "",
+      "elapsedMs": 84.44614999999976,
+      "moneyEarned": 224,
+      "found": [
+        "spark",
+        "diamond",
+        "pair",
+        "heart",
+        "archive"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "pair",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "51807",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-107",
+      "challenge": "",
+      "elapsedMs": 100.97445700000026,
+      "moneyEarned": 248,
+      "found": [
+        "cosmic",
+        "mint",
+        "ledger",
+        "straight",
+        "gambler",
+        "conductor",
+        "cerberus",
+        "fibonacci",
+        "archive",
+        "variety",
+        "spark",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 16,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 21,
+      "jokers": [
+        "ledger",
+        "variety",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "19482",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-108",
+      "challenge": "",
+      "elapsedMs": 97.62004699999852,
+      "moneyEarned": 227,
+      "found": [
+        "spark",
+        "empty",
+        "pyramid",
+        "archive",
+        "ledger"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 12,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "archive",
+        "archive"
+      ],
+      "best": "56376",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-109",
+      "challenge": "",
+      "elapsedMs": 86.17267800000081,
+      "moneyEarned": 248,
+      "found": [
+        "royal",
+        "alchemist",
+        "ember",
+        "bank",
+        "ledger",
+        "cerberus",
+        "spade",
+        "archive",
+        "scribe",
+        "spark",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 15,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 12,
+      "jokers": [
+        "ledger",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "13854",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-110",
+      "challenge": "",
+      "elapsedMs": 101.20740400000068,
+      "moneyEarned": 246,
+      "found": [
+        "relic",
+        "bank",
+        "spark",
+        "pyramid",
+        "royal",
+        "empty",
+        "ledger",
+        "pair",
+        "archive",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 17,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 27,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "spark",
+        "chronos"
+      ],
+      "best": "95256",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-111",
+      "challenge": "",
+      "elapsedMs": 139.31133799999952,
+      "moneyEarned": 233,
+      "found": [
+        "echo",
+        "alchemist",
+        "ace",
+        "royal",
+        "mint",
+        "ledger",
+        "pyramid",
+        "variety",
+        "spark",
+        "scribe",
+        "archive"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 15,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 22,
+      "jokers": [
+        "echo",
+        "pyramid",
+        "variety",
+        "spark",
+        "archive"
+      ],
+      "best": "36607",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-112",
+      "challenge": "",
+      "elapsedMs": 164.8072570000004,
+      "moneyEarned": 242,
+      "found": [
+        "spark",
+        "variety",
+        "pyramid",
+        "fibonacci",
+        "flush",
+        "archive"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 20,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "archive",
+        "spark",
+        "archive"
+      ],
+      "best": "67932",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-113",
+      "challenge": "",
+      "elapsedMs": 95.26627600000029,
+      "moneyEarned": 238,
+      "found": [
+        "spark",
+        "royal",
+        "ledger",
+        "ember",
+        "pair",
+        "heart",
+        "archive",
+        "fibonacci",
+        "mirror",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 12,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "38019",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-114",
+      "challenge": "",
+      "elapsedMs": 163.20657000000028,
+      "moneyEarned": 228,
+      "found": [
+        "royal",
+        "ember",
+        "spade",
+        "scribe",
+        "cosmic",
+        "archive",
+        "relic",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 43,
+        "uncommon": 10,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 21,
+      "jokers": [
+        "relic",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "26695",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-115",
+      "challenge": "",
+      "elapsedMs": 135.82576700000027,
+      "moneyEarned": 213,
+      "found": [
+        "spade",
+        "ember",
+        "spark",
+        "royal",
+        "pyramid",
+        "ledger",
+        "scribe"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 16,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "18950",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-116",
+      "challenge": "",
+      "elapsedMs": 89.17413399999896,
+      "moneyEarned": 236,
+      "found": [
+        "echo",
+        "royal",
+        "spade",
+        "variety",
+        "heart",
+        "pyramid",
+        "straight",
+        "ledger",
+        "pair",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 15,
+      "jokers": [
+        "echo",
+        "variety",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "28258",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-117",
+      "challenge": "",
+      "elapsedMs": 122.87125900000137,
+      "moneyEarned": 244,
+      "found": [
+        "lone",
+        "diamond",
+        "royal",
+        "conductor",
+        "heart",
+        "pyramid",
+        "ledger",
+        "spark",
+        "pair",
+        "straight",
+        "fibonacci",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 15,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 25,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "26976",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-118",
+      "challenge": "",
+      "elapsedMs": 82.53023300000132,
+      "moneyEarned": 239,
+      "found": [
+        "spark",
+        "lone",
+        "relic",
+        "ember",
+        "gardener",
+        "pair"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 15,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "67392",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-119",
+      "challenge": "",
+      "elapsedMs": 82.53983799999878,
+      "moneyEarned": 241,
+      "found": [
+        "royal",
+        "heart",
+        "archive",
+        "pair",
+        "spade",
+        "spark",
+        "flush",
+        "ledger",
+        "cerberus",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "archive",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "best": "30075",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-120",
+      "challenge": "",
+      "elapsedMs": 247.69087000000036,
+      "moneyEarned": 184,
+      "found": [
+        "archive",
+        "royal",
+        "alchemist",
+        "pyramid",
+        "mirror",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 2
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 54,
+      "money": 5,
+      "jokers": [
+        "mirror",
+        "pyramid",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "14040",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-121",
+      "challenge": "",
+      "elapsedMs": 166.59512299999915,
+      "moneyEarned": 250,
+      "found": [
+        "lone",
+        "alchemist",
+        "bank",
+        "royal",
+        "spark",
+        "conductor",
+        "pair",
+        "archive",
+        "pyramid",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 11,
+        "rare": 7,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "chronos",
+        "spark"
+      ],
+      "best": "42657",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-122",
+      "challenge": "",
+      "elapsedMs": 99.18768500000078,
+      "moneyEarned": 240,
+      "found": [
+        "pair",
+        "bank",
+        "spark",
+        "diamond",
+        "archive",
+        "fibonacci",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 12,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 28,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "spark",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "best": "140368",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-123",
+      "challenge": "",
+      "elapsedMs": 146.4042040000004,
+      "moneyEarned": 227,
+      "found": [
+        "fourFingers",
+        "royal",
+        "straight",
+        "spark",
+        "pyramid",
+        "variety"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 13,
+        "rare": 2,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "40154",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-124",
+      "challenge": "",
+      "elapsedMs": 89.23262299999988,
+      "moneyEarned": 236,
+      "found": [
+        "spark",
+        "archive",
+        "fibonacci",
+        "ember",
+        "empty",
+        "ledger",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 9,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "33264",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-125",
+      "challenge": "",
+      "elapsedMs": 110.71250599999985,
+      "moneyEarned": 222,
+      "found": [
+        "echo",
+        "ember",
+        "archive",
+        "ledger",
+        "diamond",
+        "spark",
+        "pair",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 29,
+        "uncommon": 19,
+        "rare": 8,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": -5,
+      "jokers": [
+        "echo",
+        "spark",
+        "echo",
+        "pyramid",
+        "spark"
+      ],
+      "best": "4414032",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-126",
+      "challenge": "",
+      "elapsedMs": 128.20487400000093,
+      "moneyEarned": 225,
+      "found": [
+        "cerberus",
+        "ledger",
+        "archive",
+        "mirror",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 28,
+        "uncommon": 18,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 40,
+      "money": 22,
+      "jokers": [
+        "ledger",
+        "archive",
+        "pyramid",
+        "spark",
+        "pyramid"
+      ],
+      "best": "29989",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-127",
+      "challenge": "",
+      "elapsedMs": 132.93836999999985,
+      "moneyEarned": 228,
+      "found": [
+        "pair",
+        "bank",
+        "royal",
+        "cerberus",
+        "ledger",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 40,
+        "uncommon": 11,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 24,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "archive",
+        "archive",
+        "spark"
+      ],
+      "best": "34526",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-128",
+      "challenge": "",
+      "elapsedMs": 150.40448199999992,
+      "moneyEarned": 229,
+      "found": [
+        "variety",
+        "spade",
+        "scribe",
+        "ledger",
+        "spark",
+        "echo",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 16,
+      "jokers": [
+        "variety",
+        "ledger",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "28714",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-129",
+      "challenge": "",
+      "elapsedMs": 181.39423700000043,
+      "moneyEarned": 227,
+      "found": [
+        "spark",
+        "heart",
+        "pyramid",
+        "archive",
+        "ledger",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 11,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 12,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "38640",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-130",
+      "challenge": "",
+      "elapsedMs": 138.14859800000158,
+      "moneyEarned": 223,
+      "found": [
+        "alchemist",
+        "diamond",
+        "heart",
+        "pyramid",
+        "pair",
+        "conductor",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 11,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "32234",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-131",
+      "challenge": "",
+      "elapsedMs": 126.5536749999992,
+      "moneyEarned": 207,
+      "found": [
+        "gambler",
+        "royal",
+        "conductor",
+        "bank",
+        "ledger",
+        "pair",
+        "scribe",
+        "pyramid",
+        "archive",
+        "fibonacci",
+        "spark"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 16,
+        "rare": 2,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 13,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "best": "17074",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-132",
+      "challenge": "",
+      "elapsedMs": 146.7612250000002,
+      "moneyEarned": 192,
+      "found": [
+        "ledger",
+        "heart",
+        "scribe",
+        "archive",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 47,
+      "money": 10,
+      "jokers": [
+        "ledger",
+        "ledger",
+        "archive",
+        "archive",
+        "pyramid"
+      ],
+      "best": "18068",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-133",
+      "challenge": "",
+      "elapsedMs": 86.13687100000061,
+      "moneyEarned": 251,
+      "found": [
+        "fourFingers",
+        "royal",
+        "archive",
+        "ember",
+        "fibonacci",
+        "pyramid",
+        "pair",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 11,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 29,
+      "jokers": [
+        "archive",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "41366",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-134",
+      "challenge": "",
+      "elapsedMs": 100.38601200000085,
+      "moneyEarned": 233,
+      "found": [
+        "mint",
+        "bank",
+        "heart",
+        "spark",
+        "gambler",
+        "fourFingers",
+        "archive",
+        "pyramid",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 13,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 11,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "chronos"
+      ],
+      "best": "44982",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-135",
+      "challenge": "",
+      "elapsedMs": 119.26641399999971,
+      "moneyEarned": 225,
+      "found": [
+        "pyramid",
+        "heart",
+        "fibonacci",
+        "spark",
+        "scribe",
+        "archive"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 14,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 38,
+      "money": 12,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "17332",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-136",
+      "challenge": "",
+      "elapsedMs": 109.72831399999995,
+      "moneyEarned": 239,
+      "found": [
+        "archive",
+        "mint",
+        "spade",
+        "ember",
+        "royal",
+        "pyramid",
+        "gambler",
+        "spark"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 12,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 13,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "35568",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-137",
+      "challenge": "",
+      "elapsedMs": 125.77706399999988,
+      "moneyEarned": 219,
+      "found": [
+        "heart",
+        "empty",
+        "pair",
+        "ledger",
+        "spade",
+        "spark",
+        "pyramid",
+        "variety"
+      ],
+      "rarities": {
+        "common": 47,
+        "uncommon": 9,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 17,
+      "jokers": [
+        "ledger",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "18506",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-138",
+      "challenge": "",
+      "elapsedMs": 57.05647499999941,
+      "moneyEarned": 72,
+      "found": [
+        "spade",
+        "diamond",
+        "royal",
+        "steel",
+        "gambler",
+        "pyramid",
+        "reverse",
+        "pair"
+      ],
+      "rarities": {
+        "common": 13,
+        "uncommon": 5,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 3,
+      "blinds": 8,
+      "plays": 15,
+      "money": 1,
+      "jokers": [
+        "steel",
+        "gambler",
+        "pyramid",
+        "reverse",
+        "pair"
+      ],
+      "best": "5054",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-139",
+      "challenge": "",
+      "elapsedMs": 125.07361800000035,
+      "moneyEarned": 231,
+      "found": [
+        "royal",
+        "gambler",
+        "bank",
+        "pair",
+        "spark",
+        "relic",
+        "flush",
+        "mirror"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 11,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 17,
+      "jokers": [
+        "pair",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "30744",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-140",
+      "challenge": "",
+      "elapsedMs": 130.1590499999984,
+      "moneyEarned": 238,
+      "found": [
+        "pyramid",
+        "alchemist",
+        "spark",
+        "heart",
+        "diamond",
+        "relic",
+        "spade",
+        "ledger",
+        "pair",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "67257",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-141",
+      "challenge": "",
+      "elapsedMs": 119.123243,
+      "moneyEarned": 254,
+      "found": [
+        "spade",
+        "mint",
+        "pair",
+        "fibonacci",
+        "empty",
+        "reverse",
+        "spark",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 45,
+        "uncommon": 12,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 23,
+      "jokers": [
+        "reverse",
+        "spark",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "best": "16848",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-142",
+      "challenge": "",
+      "elapsedMs": 113.1636209999997,
+      "moneyEarned": 220,
+      "found": [
+        "pyramid",
+        "echo",
+        "spark",
+        "pair",
+        "ember",
+        "ledger",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 8,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 5,
+      "jokers": [
+        "pyramid",
+        "echo",
+        "spark",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "55404",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-143",
+      "challenge": "",
+      "elapsedMs": 101.95626899999843,
+      "moneyEarned": 272,
+      "found": [
+        "ledger",
+        "royal",
+        "mint",
+        "spark",
+        "alchemist",
+        "executioner",
+        "pyramid",
+        "mirror",
+        "archive"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 13,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 37,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "spark",
+        "archive",
+        "spark"
+      ],
+      "best": "120663",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-144",
+      "challenge": "",
+      "elapsedMs": 90.80385899999965,
+      "moneyEarned": 238,
+      "found": [
+        "mirror",
+        "spark",
+        "ledger",
+        "scribe",
+        "ember",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 20,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "best": "86977",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-145",
+      "challenge": "",
+      "elapsedMs": 115.57527100000152,
+      "moneyEarned": 233,
+      "found": [
+        "empty",
+        "cosmic",
+        "ember",
+        "scribe",
+        "heart",
+        "echo",
+        "pyramid",
+        "spade",
+        "spark"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 19,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 21,
+      "jokers": [
+        "echo",
+        "spark",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "42140",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-146",
+      "challenge": "",
+      "elapsedMs": 97.40897799999948,
+      "moneyEarned": 262,
+      "found": [
+        "ledger",
+        "mint",
+        "royal",
+        "bank",
+        "archive",
+        "heart",
+        "cerberus",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 16,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "32947",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-147",
+      "challenge": "",
+      "elapsedMs": 106.92216399999961,
+      "moneyEarned": 221,
+      "found": [
+        "steel",
+        "ember",
+        "variety",
+        "pair",
+        "spade",
+        "spark",
+        "reverse",
+        "archive"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 7,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 18,
+      "jokers": [
+        "variety",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "63957",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-148",
+      "challenge": "",
+      "elapsedMs": 110.5385090000018,
+      "moneyEarned": 236,
+      "found": [
+        "echo",
+        "pair",
+        "ledger",
+        "heart",
+        "variety",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 24,
+        "uncommon": 22,
+        "rare": 9,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 24,
+      "jokers": [
+        "pair",
+        "variety",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "21675",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-149",
+      "challenge": "",
+      "elapsedMs": 93.38662699999986,
+      "moneyEarned": 236,
+      "found": [
+        "pair",
+        "royal",
+        "spark",
+        "archive",
+        "mint",
+        "ledger",
+        "pyramid",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 8,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "chronos",
+        "spark"
+      ],
+      "best": "60270",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-150",
+      "challenge": "",
+      "elapsedMs": 84.97204200000124,
+      "moneyEarned": 249,
+      "found": [
+        "ledger",
+        "royal",
+        "bank",
+        "mint",
+        "fibonacci",
+        "ace",
+        "archive",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 15,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "archive",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "38040",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-151",
+      "challenge": "",
+      "elapsedMs": 131.99493799999982,
+      "moneyEarned": 236,
+      "found": [
+        "spark",
+        "mirror",
+        "ace",
+        "flush",
+        "heart",
+        "pyramid",
+        "summoner",
+        "echo",
+        "archive"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 19,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "pyramid",
+        "archive",
+        "pyramid"
+      ],
+      "best": "11865",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-152",
+      "challenge": "",
+      "elapsedMs": 155.97670899999866,
+      "moneyEarned": 234,
+      "found": [
+        "fibonacci",
+        "pair",
+        "pyramid",
+        "alchemist",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 13,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 34,
+      "money": 10,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "23469",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-153",
+      "challenge": "",
+      "elapsedMs": 92.8451329999989,
+      "moneyEarned": 244,
+      "found": [
+        "fourFingers",
+        "alchemist",
+        "spark",
+        "straight",
+        "diamond",
+        "reverse",
+        "scribe",
+        "pair",
+        "cerberus",
+        "echo",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 25,
+        "uncommon": 21,
+        "rare": 8,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 18,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "echo",
+        "spark"
+      ],
+      "best": "58444",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-154",
+      "challenge": "",
+      "elapsedMs": 88.3767399999997,
+      "moneyEarned": 250,
+      "found": [
+        "variety",
+        "royal",
+        "spark",
+        "ember",
+        "conductor",
+        "spade",
+        "straight",
+        "pyramid",
+        "archive"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 13,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "spark",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "42681",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-155",
+      "challenge": "",
+      "elapsedMs": 139.92881000000125,
+      "moneyEarned": 241,
+      "found": [
+        "scribe",
+        "gardener",
+        "flush",
+        "spark",
+        "royal",
+        "conductor",
+        "pair",
+        "archive",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 19,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "pair",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "48112",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-156",
+      "challenge": "",
+      "elapsedMs": 129.54975799999738,
+      "moneyEarned": 240,
+      "found": [
+        "spark",
+        "ember",
+        "pyramid",
+        "pair",
+        "archive",
+        "fibonacci",
+        "variety"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 16,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "24624",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-157",
+      "challenge": "",
+      "elapsedMs": 135.06585500000074,
+      "moneyEarned": 231,
+      "found": [
+        "empty",
+        "mint",
+        "ledger",
+        "ember",
+        "scribe",
+        "diamond",
+        "archive",
+        "straight",
+        "lone",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 15,
+        "rare": 1,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 24,
+      "jokers": [
+        "ledger",
+        "archive",
+        "ledger",
+        "pyramid",
+        "archive"
+      ],
+      "best": "45450",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-158",
+      "challenge": "",
+      "elapsedMs": 119.80128999999943,
+      "moneyEarned": 262,
+      "found": [
+        "mint",
+        "pair",
+        "diamond",
+        "spade",
+        "executioner",
+        "spark",
+        "scribe",
+        "archive",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 18,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "archive",
+        "spark"
+      ],
+      "best": "120333",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-159",
+      "challenge": "",
+      "elapsedMs": 194.44105499999932,
+      "moneyEarned": 224,
+      "found": [
+        "heart",
+        "spark",
+        "royal",
+        "straight",
+        "archive",
+        "ledger",
+        "reverse",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 29,
+        "uncommon": 18,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "spark",
+        "reverse",
+        "pyramid",
+        "spark"
+      ],
+      "best": "26240",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-160",
+      "challenge": "",
+      "elapsedMs": 151.37471500000174,
+      "moneyEarned": 233,
+      "found": [
+        "spade",
+        "ember",
+        "ledger",
+        "spark",
+        "mint",
+        "pyramid",
+        "relic",
+        "pair",
+        "archive"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 20,
+        "rare": 1,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 12,
+      "jokers": [
+        "spark",
+        "pyramid",
+        "ledger",
+        "pyramid",
+        "archive"
+      ],
+      "best": "38836",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-161",
+      "challenge": "",
+      "elapsedMs": 205.2212010000003,
+      "moneyEarned": 259,
+      "found": [
+        "alchemist",
+        "mint",
+        "empty",
+        "spark",
+        "ember",
+        "scribe",
+        "conductor",
+        "archive",
+        "flush",
+        "variety",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 18,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "archive",
+        "variety",
+        "pyramid",
+        "archive"
+      ],
+      "best": "36577",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-162",
+      "challenge": "",
+      "elapsedMs": 156.91971700000067,
+      "moneyEarned": 235,
+      "found": [
+        "ledger",
+        "ember",
+        "scribe",
+        "spade",
+        "spark",
+        "cerberus",
+        "variety",
+        "archive"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 14,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 16,
+      "jokers": [
+        "ledger",
+        "spark",
+        "spark",
+        "archive",
+        "spark"
+      ],
+      "best": "129254",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-163",
+      "challenge": "",
+      "elapsedMs": 114.41451700000107,
+      "moneyEarned": 238,
+      "found": [
+        "spade",
+        "bank",
+        "fibonacci",
+        "pair",
+        "ember",
+        "pyramid",
+        "heart",
+        "reverse",
+        "archive",
+        "echo",
+        "spark"
+      ],
+      "rarities": {
+        "common": 45,
+        "uncommon": 7,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 23,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "23388",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-164",
+      "challenge": "",
+      "elapsedMs": 161.35126300000047,
+      "moneyEarned": 242,
+      "found": [
+        "ember",
+        "mint",
+        "ledger",
+        "spade",
+        "pair",
+        "royal",
+        "flush",
+        "scribe",
+        "pyramid",
+        "reverse",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 12,
+        "rare": 1,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 20,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "31356",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-165",
+      "challenge": "",
+      "elapsedMs": 95.6797379999989,
+      "moneyEarned": 236,
+      "found": [
+        "spark",
+        "variety",
+        "spade",
+        "heart",
+        "echo",
+        "pyramid",
+        "straight",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 17,
+        "rare": 7,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 21,
+      "jokers": [
+        "spark",
+        "variety",
+        "pyramid",
+        "spark",
+        "chronos"
+      ],
+      "best": "44236",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-166",
+      "challenge": "",
+      "elapsedMs": 104.98511900000085,
+      "moneyEarned": 249,
+      "found": [
+        "spade",
+        "executioner",
+        "diamond",
+        "conductor",
+        "archive",
+        "chronos",
+        "mirror",
+        "ledger",
+        "pair",
+        "spark",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 36,
+        "uncommon": 16,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 24,
+      "jokers": [
+        "chronos",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "34549",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-167",
+      "challenge": "",
+      "elapsedMs": 200.4983339999999,
+      "moneyEarned": 243,
+      "found": [
+        "pair",
+        "heart",
+        "pyramid",
+        "archive",
+        "executioner",
+        "ledger",
+        "spark",
+        "echo"
+      ],
+      "rarities": {
+        "common": 41,
+        "uncommon": 10,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 20,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "pyramid",
+        "spark",
+        "spark"
+      ],
+      "best": "11404",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-168",
+      "challenge": "",
+      "elapsedMs": 126.54113300000245,
+      "moneyEarned": 216,
+      "found": [
+        "pyramid",
+        "pair",
+        "royal",
+        "echo",
+        "scribe",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 19,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 12,
+      "jokers": [
+        "pyramid",
+        "echo",
+        "variety",
+        "spark",
+        "variety"
+      ],
+      "best": "293515",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-169",
+      "challenge": "",
+      "elapsedMs": 119.08581100000083,
+      "moneyEarned": 243,
+      "found": [
+        "spark",
+        "conductor",
+        "lone",
+        "echo",
+        "diamond",
+        "straight",
+        "pair",
+        "pyramid",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 34,
+        "uncommon": 14,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 25,
+      "jokers": [
+        "spark",
+        "echo",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "57456",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-170",
+      "challenge": "",
+      "elapsedMs": 142.39840299999923,
+      "moneyEarned": 247,
+      "found": [
+        "archive",
+        "echo",
+        "heart",
+        "ember",
+        "pair",
+        "straight",
+        "pyramid",
+        "spark",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 14,
+        "rare": 5,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 17,
+      "jokers": [
+        "echo",
+        "pair",
+        "pyramid",
+        "spark",
+        "chronos"
+      ],
+      "best": "170316",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-171",
+      "challenge": "",
+      "elapsedMs": 122.83197199999995,
+      "moneyEarned": 246,
+      "found": [
+        "scribe",
+        "royal",
+        "archive",
+        "bank",
+        "mint",
+        "diamond",
+        "ember",
+        "heart",
+        "reverse",
+        "pyramid",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 11,
+        "rare": 9,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 36,
+      "money": 23,
+      "jokers": [
+        "pyramid",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "13390",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-172",
+      "challenge": "",
+      "elapsedMs": 108.41993899999943,
+      "moneyEarned": 239,
+      "found": [
+        "ledger",
+        "heart",
+        "archive",
+        "flush",
+        "cerberus",
+        "spark",
+        "pair",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 16,
+        "rare": 2,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 27,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "28437",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-173",
+      "challenge": "",
+      "elapsedMs": 93.97757800000181,
+      "moneyEarned": 240,
+      "found": [
+        "ledger",
+        "gardener",
+        "ember",
+        "pair",
+        "fourFingers",
+        "bank",
+        "conductor",
+        "spark",
+        "fibonacci",
+        "scribe",
+        "variety"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 20,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 12,
+      "jokers": [
+        "ledger",
+        "pair",
+        "spark",
+        "variety",
+        "spark"
+      ],
+      "best": "38246",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-174",
+      "challenge": "",
+      "elapsedMs": 150.4166529999966,
+      "moneyEarned": 242,
+      "found": [
+        "heart",
+        "cosmic",
+        "spark",
+        "pyramid",
+        "diamond",
+        "mirror",
+        "fibonacci",
+        "archive"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 22,
+      "jokers": [
+        "spark",
+        "spark",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "best": "26503",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-175",
+      "challenge": "",
+      "elapsedMs": 237.65161799999987,
+      "moneyEarned": 235,
+      "found": [
+        "scribe",
+        "pair",
+        "spark",
+        "heart",
+        "archive",
+        "variety",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 20,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 23,
+      "jokers": [
+        "spark",
+        "variety",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "30681",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-176",
+      "challenge": "",
+      "elapsedMs": 334.38444700000036,
+      "moneyEarned": 199,
+      "found": [
+        "cosmic",
+        "bank",
+        "ember",
+        "mirror",
+        "ledger",
+        "heart",
+        "pyramid",
+        "echo",
+        "chronos"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 11,
+        "rare": 3,
+        "legendary": 2
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 54,
+      "money": 9,
+      "jokers": [
+        "mirror",
+        "ledger",
+        "pyramid",
+        "pyramid",
+        "chronos"
+      ],
+      "best": "24045",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-177",
+      "challenge": "",
+      "elapsedMs": 198.0605230000001,
+      "moneyEarned": 256,
+      "found": [
+        "spade",
+        "mint",
+        "archive",
+        "mirror",
+        "reverse",
+        "relic",
+        "ledger",
+        "echo",
+        "scribe",
+        "cerberus",
+        "spark"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 16,
+        "rare": 11,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 16,
+      "jokers": [
+        "reverse",
+        "archive",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "33434",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-178",
+      "challenge": "",
+      "elapsedMs": 194.2326099999991,
+      "moneyEarned": 237,
+      "found": [
+        "archive",
+        "cerberus",
+        "ledger",
+        "steel",
+        "ace",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 42,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "89856",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-179",
+      "challenge": "",
+      "elapsedMs": 359.277613000002,
+      "moneyEarned": 219,
+      "found": [
+        "ledger",
+        "ace",
+        "alchemist",
+        "royal",
+        "fourFingers",
+        "chronos",
+        "pair",
+        "spark",
+        "variety"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 12,
+        "rare": 7,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 38,
+      "money": 10,
+      "jokers": [
+        "ledger",
+        "ledger",
+        "chronos",
+        "spark",
+        "spark"
+      ],
+      "best": "15425",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-180",
+      "challenge": "",
+      "elapsedMs": 240.72251399999732,
+      "moneyEarned": 220,
+      "found": [
+        "archive",
+        "ember",
+        "ledger",
+        "diamond",
+        "royal",
+        "steel",
+        "pair",
+        "spark",
+        "cerberus"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 37,
+      "money": 8,
+      "jokers": [
+        "ledger",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "12266",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-181",
+      "challenge": "",
+      "elapsedMs": 269.0882900000033,
+      "moneyEarned": 218,
+      "found": [
+        "royal",
+        "mint",
+        "diamond",
+        "ember",
+        "pyramid",
+        "ledger",
+        "reverse",
+        "heart",
+        "pair",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 35,
+        "uncommon": 11,
+        "rare": 5,
+        "legendary": 2
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 18,
+      "jokers": [
+        "ledger",
+        "reverse",
+        "pair",
+        "spark",
+        "spark"
+      ],
+      "best": "65513",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-182",
+      "challenge": "",
+      "elapsedMs": 171.04662699999972,
+      "moneyEarned": 228,
+      "found": [
+        "archive",
+        "mirror",
+        "cosmic",
+        "flush",
+        "pair",
+        "spark",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 20,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 17,
+      "jokers": [
+        "archive",
+        "spark",
+        "archive",
+        "archive",
+        "spark"
+      ],
+      "best": "41066",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-183",
+      "challenge": "",
+      "elapsedMs": 192.7219100000002,
+      "moneyEarned": 231,
+      "found": [
+        "pair",
+        "ace",
+        "pyramid",
+        "archive",
+        "bank",
+        "spark",
+        "ledger"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 15,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 35,
+      "money": 15,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "44647",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-184",
+      "challenge": "",
+      "elapsedMs": 119.4510270000028,
+      "moneyEarned": 231,
+      "found": [
+        "pair",
+        "diamond",
+        "royal",
+        "spark",
+        "cosmic",
+        "archive",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 11,
+        "rare": 6,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 33,
+      "money": 24,
+      "jokers": [
+        "pair",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "90650",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-185",
+      "challenge": "",
+      "elapsedMs": 174.50535899999886,
+      "moneyEarned": 207,
+      "found": [
+        "ledger",
+        "royal",
+        "diamond",
+        "pyramid",
+        "reverse",
+        "pair",
+        "spark"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 14,
+        "rare": 3,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 43,
+      "money": 15,
+      "jokers": [
+        "ledger",
+        "pyramid",
+        "pair",
+        "reverse",
+        "spark"
+      ],
+      "best": "27773",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-186",
+      "challenge": "",
+      "elapsedMs": 71.77854999999909,
+      "moneyEarned": 222,
+      "found": [
+        "pyramid",
+        "variety",
+        "pair",
+        "royal",
+        "fibonacci",
+        "archive"
+      ],
+      "rarities": {
+        "common": 31,
+        "uncommon": 19,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 23,
+      "plays": 31,
+      "money": 8,
+      "jokers": [
+        "pyramid",
+        "variety",
+        "pyramid",
+        "pyramid",
+        "archive"
+      ],
+      "best": "18513",
+      "reason": "Не выполнено условие разнообразия босса",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-187",
+      "challenge": "",
+      "elapsedMs": 86.77338099999906,
+      "moneyEarned": 233,
+      "found": [
+        "ace",
+        "cosmic",
+        "spade",
+        "bank",
+        "archive",
+        "variety",
+        "pair",
+        "steel",
+        "spark",
+        "echo",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 28,
+        "uncommon": 21,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 15,
+      "jokers": [
+        "archive",
+        "variety",
+        "spark",
+        "pyramid",
+        "pyramid"
+      ],
+      "best": "30768",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-188",
+      "challenge": "",
+      "elapsedMs": 94.71864599999753,
+      "moneyEarned": 220,
+      "found": [
+        "pair",
+        "bank",
+        "pyramid",
+        "diamond",
+        "archive",
+        "spark"
+      ],
+      "rarities": {
+        "common": 39,
+        "uncommon": 10,
+        "rare": 4,
+        "legendary": 1
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 23,
+      "jokers": [
+        "pair",
+        "pyramid",
+        "pyramid",
+        "archive",
+        "spark"
+      ],
+      "best": "116280",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-189",
+      "challenge": "",
+      "elapsedMs": 130.79665699999896,
+      "moneyEarned": 239,
+      "found": [
+        "pyramid",
+        "conductor",
+        "spark",
+        "alchemist",
+        "pair",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 12,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 31,
+      "money": 15,
+      "jokers": [
+        "spark",
+        "spark",
+        "spark",
+        "spark",
+        "spark"
+      ],
+      "best": "26068",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-190",
+      "challenge": "",
+      "elapsedMs": 162.95932299999913,
+      "moneyEarned": 211,
+      "found": [
+        "pair",
+        "heart",
+        "spark",
+        "ace"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 41,
+      "money": 20,
+      "jokers": [
+        "pair",
+        "pair",
+        "spark",
+        "pair",
+        "pair"
+      ],
+      "best": "63805",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-191",
+      "challenge": "",
+      "elapsedMs": 125.92630300000019,
+      "moneyEarned": 244,
+      "found": [
+        "ledger",
+        "conductor",
+        "heart",
+        "mint",
+        "spark",
+        "royal",
+        "archive",
+        "scribe",
+        "pyramid"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 17,
+        "rare": 5,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 19,
+      "jokers": [
+        "spark",
+        "archive",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "38112",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-192",
+      "challenge": "",
+      "elapsedMs": 106.41874200000166,
+      "moneyEarned": 244,
+      "found": [
+        "ledger",
+        "heart",
+        "fibonacci",
+        "steel",
+        "straight",
+        "archive",
+        "scribe",
+        "spark"
+      ],
+      "rarities": {
+        "common": 38,
+        "uncommon": 14,
+        "rare": 4,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 34,
+      "money": 22,
+      "jokers": [
+        "ledger",
+        "archive",
+        "archive",
+        "spark",
+        "archive"
+      ],
+      "best": "23199",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-193",
+      "challenge": "",
+      "elapsedMs": 184.80126699999892,
+      "moneyEarned": 238,
+      "found": [
+        "straight",
+        "mint",
+        "variety",
+        "ember",
+        "pyramid",
+        "conductor",
+        "spade",
+        "pair",
+        "spark",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 30,
+        "uncommon": 19,
+        "rare": 7,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 39,
+      "money": 24,
+      "jokers": [
+        "variety",
+        "pyramid",
+        "spark",
+        "pyramid",
+        "spark"
+      ],
+      "best": "59045",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-194",
+      "challenge": "",
+      "elapsedMs": 94.13887699999759,
+      "moneyEarned": 231,
+      "found": [
+        "spark",
+        "ledger",
+        "executioner",
+        "variety",
+        "pair",
+        "archive"
+      ],
+      "rarities": {
+        "common": 32,
+        "uncommon": 15,
+        "rare": 8,
+        "legendary": 3
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 24,
+      "jokers": [
+        "spark",
+        "ledger",
+        "pair",
+        "spark",
+        "spark"
+      ],
+      "best": "30273",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-195",
+      "challenge": "",
+      "elapsedMs": 86.42716800000198,
+      "moneyEarned": 240,
+      "found": [
+        "spark",
+        "mirror",
+        "steel",
+        "ace",
+        "ledger",
+        "scribe",
+        "archive"
+      ],
+      "rarities": {
+        "common": 43,
+        "uncommon": 15,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 29,
+      "money": 17,
+      "jokers": [
+        "spark",
+        "mirror",
+        "spark",
+        "spark",
+        "archive"
+      ],
+      "best": "83980",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-196",
+      "challenge": "",
+      "elapsedMs": 283.6588609999999,
+      "moneyEarned": 168,
+      "found": [
+        "pyramid",
+        "ledger",
+        "pair",
+        "flush",
+        "heart",
+        "variety",
+        "spark"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 16,
+        "rare": 3,
+        "legendary": 0
+      },
+      "won": false,
+      "ante": 8,
+      "blinds": 21,
+      "plays": 50,
+      "money": 1,
+      "jokers": [
+        "pyramid",
+        "ledger",
+        "ledger",
+        "spark",
+        "pyramid"
+      ],
+      "best": "5376",
+      "reason": "Не хватило очков",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-197",
+      "challenge": "",
+      "elapsedMs": 103.88562900000034,
+      "moneyEarned": 251,
+      "found": [
+        "fibonacci",
+        "executioner",
+        "mint",
+        "royal",
+        "bank",
+        "mirror",
+        "spade",
+        "ember",
+        "archive",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 33,
+        "uncommon": 17,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 32,
+      "money": 21,
+      "jokers": [
+        "pyramid",
+        "archive",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "45280",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-198",
+      "challenge": "",
+      "elapsedMs": 116.82133800000156,
+      "moneyEarned": 231,
+      "found": [
+        "spark",
+        "flush",
+        "ledger",
+        "gardener",
+        "archive",
+        "gambler",
+        "fibonacci"
+      ],
+      "rarities": {
+        "common": 37,
+        "uncommon": 15,
+        "rare": 6,
+        "legendary": 0
+      },
+      "won": true,
+      "ante": 8,
+      "blinds": 24,
+      "plays": 30,
+      "money": 17,
+      "jokers": [
+        "spark",
+        "spark",
+        "archive",
+        "spark",
+        "spark"
+      ],
+      "best": "121251",
+      "reason": "Сердце Бездны побеждено",
+      "errors": []
+    },
+    {
+      "rejectedActions": {},
+      "seed": "RELEASE-2-199",
+      "challenge": "",
+      "elapsedMs": 140.82050000000163,
+      "moneyEarned": 177,
+      "found": [
+        "gambler",
+        "lone",
+        "fibonacci",
+        "pair",
+        "flush",
+        "pyramid",
+        "spark"
+      ],
+      "rarities": {
+        "common": 27,
+        "uncommon": 15,
+        "rare": 5,
+        "legendary": 1
+      },
+      "won": false,
+      "ante": 7,
+      "blinds": 20,
+      "plays": 43,
+      "money": -3,
+      "jokers": [
+        "pair",
+        "spark",
+        "pyramid",
+        "pyramid",
+        "spark"
+      ],
+      "best": "8514",
+      "reason": "Не хватило очков",
+      "errors": []
+    }
+  ]
+}
