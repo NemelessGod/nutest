@@ -1,0 +1,2 @@
+# Preserve actual CRLF bytes in batch files, including GitHub ZIP downloads.
+*.bat -text whitespace=cr-at-eol
